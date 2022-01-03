@@ -1,0 +1,8 @@
+numpy
+matplotlib
+pandas
+pandas_datareader
+sklearn
+virtualenv
+datetime
+tensorflow
